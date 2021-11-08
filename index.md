@@ -25,6 +25,6 @@ prestataire de service.
 
 Pour répondre et cadrer le besoin, 3 lots sont créés séparément :
 
-1. [Gestion des franchisés](https://cebago.github.io/franchise.html)
-2. [Gestion des Service Clients](https://cebago.github.io/clients.html)
-3. [Architecture Réseau et Sécurité](https://cebago.github.io/network.html)
+1. [Gestion des franchisés](https://cebago.github.io/Driv-N-Cook-Doc/franchise.html)
+2. [Gestion des Service Clients](https://cebago.github.io/Driv-N-Cook-Doc/clients.html)
+3. [Architecture Réseau et Sécurité](https://cebago.github.io/Driv-N-Cook-Doc/network.html)
